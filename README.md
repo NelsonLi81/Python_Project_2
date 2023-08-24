@@ -6,7 +6,7 @@
 <body>
 
 <h1>Introduction</h1>
-<p>This project aims to analyze the salary distribution and team investment in the top 150 NBA Fantasy players. By leveraging data from various sources such as <a href="www.rotowire.com">www.rotowire.com</a>, <a href="https://basketball.realgm.com">https://basketball.realgm.com</a>, and <a href="https://hoopshype.com">https://hoopshype.com</a>, we will explore various aspects of player salaries, including total salary investment per team, salary distribution by position, and the number of top players in each conference.</p>
+<p>This project aims to analyze the salary distribution and team investment in the <b>top 150 NBA Fantasy players</b>. By leveraging data from various sources such as <a href="www.rotowire.com">www.rotowire.com</a>, <a href="https://basketball.realgm.com">https://basketball.realgm.com</a>, and <a href="https://hoopshype.com">https://hoopshype.com</a>, we will explore various aspects of player salaries, including total salary investment per team, salary distribution by position, and the number of top players in each conference.</p>
 
 <h2>Project Scope</h2>
 <p>The scope of this project includes the following:</p>
