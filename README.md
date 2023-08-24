@@ -31,6 +31,7 @@
 <p>Once we have collected and cleaned our data, we can use various statistical methods and visualization techniques to answer our research questions.</p>
 
 <h3>Q1: Total Salary Investment per Team</h3>
+<img src="https://github.com/NelsonLi81/Python_Project_2/blob/main/24.08.2023_15.11.15_REC.png"></img>
 <p>Observations from the Result:</p>
 <ul>
     <li>Investment Range: The length of each bar shows the total salary investment for each team. Teams with longer bars have invested more in their players’ salaries.</li>
@@ -40,6 +41,9 @@
 <p>This chart provides a visual comparison of the total salary investments made by different basketball teams.</p>
 
 <h3>Q2: Salary Distribution by Position</h3>
+
+
+
 <p>Observations from the Result:</p>
 <ul>
     <li>Range of salaries: The vertical length of each box shows the interquartile range (IQR) of salaries for each position.</li>
