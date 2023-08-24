@@ -54,6 +54,7 @@
 <p>This chart provides a visual comparison of salary distributions across different positions in NBA Fantasy.</p>
 
 <h3>Q3: Number of Players in Each Conference</h3>
+<img src="https://github.com/NelsonLi81/Python_Project_2/blob/main/24.08.2023_15.15.45_REC.png"></img>
 <p>Observations from the Result:</p>
 <ul>
     <li>Total Salary Investment: The length of each bar shows the total salary investment for each conference.</li>
