@@ -42,7 +42,7 @@
 
 <h3>Q2: Salary Distribution by Position</h3>
 
-
+<img src="https://github.com/NelsonLi81/Python_Project_2/blob/main/24.08.2023_15.15.19_REC.png"></img>
 
 <p>Observations from the Result:</p>
 <ul>
